@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jquery-ui-dist": "^1.13.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.29"
+  }
+}

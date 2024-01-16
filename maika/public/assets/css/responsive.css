@@ -1,0 +1,488 @@
+/*for laptop view 1440*/
+
+@media only screen and (min-width: 100px) and (max-width: 1435px){
+    .cretive-logo-1 {
+        display: none;
+    }
+    .cretive-logo-2 {
+        display: none;
+    }
+}
+
+
+/*for laptop view 1024*/
+@media only screen and (min-width: 100px) and (max-width: 1199px){
+    .banner-heading h2 {
+        font-size: 66px;
+    }
+    .circle-shape {
+        top: 44%;
+        left: 7%;
+    }
+    .top-header {
+        padding: 20px;
+    }
+    .top-header {
+        background-color: #1e1e1e;
+    }
+    .top-header.sticky {
+        background: #1e1e1e;
+    }
+    .image-logo {
+        width: 150px;
+        margin-bottom: 0px;
+    }
+    .coll-contact a {
+        font-size: 12px;
+    }
+    .coll-box {
+        margin-right: 20px;
+    }
+    .coll-pra p {
+        font-size: 13px;
+    }
+    .main-nav {
+        display: none;
+    }
+    .main-coll-box {
+        align-items: center;
+    }
+    .our-services-heading {
+        padding: 90px 132px;
+    }
+    .abut-us-providing {
+        margin-bottom: 20px!important;
+        padding-bottom: 20px;
+    }
+    .about-us-content h4 {
+        font-size: 30px;
+    }
+    .about-item-main {
+        gap: 20px;
+        margin-top: 20px;
+    }
+    .about-us .about-btn-main {
+        margin-top: 15px;
+    }
+    .about-inner {
+        gap: 10px;
+    }
+    .about-inner-img {
+        width: 28px;
+    }
+    .about-us-image {
+        width: 100%;
+    }
+    .grow-business-item {
+        margin-top: 142px;
+    }
+    .cretive-logo-1 {
+        display: none;
+    }
+    .cretive-logo-2 {
+        display: none;
+    }
+    .creative-logo {
+        right: 3%;
+    }
+    .Special-team-content h3 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .member-heading h3 {
+        padding-right: 0px;
+    }
+    .member-heading {
+        width: 50%;
+    }
+    .member-date {
+        width: 15%;
+    }
+    .member-contact {
+        gap: 10px;
+    }
+    .member-contact p {
+        font-size: 13px;
+    }
+    .footer-image {
+        width: 230px;
+    }
+    .clind-say-content::before {
+        left: 177px;
+        width: 33%;
+    }
+    .sketch-design-item-1 {
+        margin: 44px 0px;
+    }
+    .form-bk {
+        padding: 25px 56px;
+    }
+    .form-input input{
+        height: 55px;
+        padding-left: 20px;
+    }
+}
+
+/*for tablet view 768*/
+@media only screen and (min-width: 100px) and (max-width: 991px){
+    .coll-box {
+        display: none;
+    }
+    .banner-heading h2 {
+        font-size: 48px;
+    }
+    .shine-shape {
+        width: 100px;
+        top: 16%;
+        right: 1%;
+    }
+    .banner-heading p {
+        font-size: 14px;
+        padding-left: 108px;
+    }
+    .circle-shape {
+        top: 31%;
+        left: 10%;
+    }
+    .our-services-heading {
+        padding: 90px 80px;
+    }
+    .about-us-content h4 {
+        font-size: 52px;
+    }
+    .about-us-main-1 {
+        margin-top: 50px;
+    }
+    .grow-business-item {
+        margin-top: 70px;
+    }
+    .grow-business .about-item {
+        width: 100%;
+    }
+    .grow-business-main {
+        flex-direction: column;
+    }
+    .grow-business-btn {
+        padding: 20px 30px;
+    }
+    .footer-top {
+        margin-top: 0px;
+    }
+    .footer-heading-1 {
+     margin-left: 0px;
+    }
+    .footer-main {
+        margin-top: 30px;
+    }
+    .creative-logo {
+        position: absolute;
+        top: 59%;
+        right: 26%;
+    }
+    .card-main h2 {
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .clind-say-content::before {
+        width: 55%;
+    }
+    .footer-logo-main {
+        justify-content: center;
+        margin-top: 10px;
+    }
+    .sketch-pad{
+        margin-bottom: 100px;
+    }
+    .form-bk {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .input-icon-main {
+        display: flex;
+        justify-content: normal;
+        gap: 10px;
+    }
+    .blog-img-4{
+        width: 60%;
+    }
+    .about-sec-btn a {
+        padding: 18px 58px;
+        margin-bottom: 20px;
+    }
+    .video-item {
+        width: 100px;
+    }
+    
+}
+
+/*for Land Scape Mobile view 576*/
+
+@media only screen and (min-width: 100px) and (max-width: 767px){
+    .blog-img-4{
+        width: 100%;
+    }
+    .our-services-image-content h3 {
+        font-size: 36px;
+    }
+    
+}
+
+
+/*for large Mobile view 420*/
+
+@media only screen and (min-width: 100px) and (max-width: 575px){
+
+    .banner-heading h2 {
+        font-size: 36px;
+    }
+    .shine-shape {
+        display: none;
+    }
+    .circle-shape {
+        display: none;
+    }
+    .banner-heading p {
+        font-size: 16px;
+        padding-left: 0px;
+    }
+    .banner-btn {
+        padding-left:0px;
+        margin-top: 30px;
+    }
+    .man-shape {
+        display: none;
+    }
+    .m-logo {
+        display: none;
+    }
+    .our-services-image-content h3 {
+        font-size: 35px;
+    }
+    .our-services-heading {
+        padding: 90px 35px;
+    }
+    .our-services-main {
+        margin: 20px;
+    }
+    .about-us {
+        margin: 0px;
+    }
+    .about-us-content h4 {
+        font-size: 30px;
+    }
+    .clind-say-content::before {
+        width: 30%;
+    }
+    li.nav-item {
+        margin: 5px;
+    }
+    .about-us-pra-1 {
+        margin: 20px 10px;
+    }
+    .about-us-text h6 {
+        display: none;
+    }
+    .creative-heading h1 {
+        font-size: 58px;
+    }
+    .creative-content {
+        text-align: center;
+    }
+   .creative .about-btn-main {
+        justify-content: center;
+    }
+    .creative-logo {
+        top: 70%;
+        right: 12%;
+        width: 318px;
+    }
+    .creative {
+        height: 1150px;
+    }
+    .card-hrading {
+        width: 100%;
+        padding-left: 10px;
+    }
+    .card-main {
+        flex-direction: column;
+    }
+    .card-main h2 {
+        font-size: 35px;
+    }
+    .card-main .about-btn a {
+        padding: 23px 25px;
+    }
+    .card-main .our-service-btn.about-btn {
+        width: 55%;
+    }
+    .member-date {
+        width: 20%;
+    }
+    .member-image {
+        margin: 25px;
+    }
+    .member-heading {
+        width: 80%;
+        text-align: center;
+    }
+    .member-main {
+        flex-direction: column;
+    }
+    .member-contact {
+        gap: 6px;
+        margin: 15px;
+    }
+    .member-contact p {
+        font-size: 13px;
+    }
+    .member-contact i {
+        font-size: 12px;
+    }
+    .footer-image {
+        width: 180px;
+    }
+    .footer-email form input {
+        width: 75%;
+    }
+    .form-bk {
+        padding: 25px 20px;
+    }
+    .blog-heading h3 {
+        font-size: 25px;
+    }
+    .blog-detail-para {
+        margin-top: 35px;
+    }
+    .Minimalist-img {
+        margin: 35px 0px;
+    }
+    .Related-main {
+        margin: 20px;
+    }
+    .form-head {
+        margin-left: 25px;
+    }
+    .point-table-main {
+        padding: 35px;
+        margin: 10px 10px;
+    }
+    .video-item {
+        display: none;
+    }
+}
+
+/*for medium Mobile view 375*/
+
+@media only screen and (min-width: 100px) and (max-width: 375px){
+    .banner-btn a {
+        padding-left: 180px;
+    }
+    .banner-btn a:before {
+        width: 150px;
+    }
+    .banner-heading p {
+        font-size: 15px;
+    }
+    .our-services-heading {
+        padding: 0px 22px;
+    }
+    .our-services-main {
+        margin: 40px 20px;
+    }
+    .about-us {
+        margin-top: 70px;
+    }
+    .about-item-main {
+        gap: 0px;
+        margin-top: 20px;
+    }
+    .about-us {
+        padding: 100px 0px;
+    }
+    section.tabs {
+        padding: 50px 0px;
+    }
+    .about-us-border {
+        margin-top: 14px;
+    }
+    .about-us-text strong {
+        font-weight: 500;
+        font-size: 19px;
+    }
+    .about-us-border {
+        width: 90%;
+    }
+    .grow-business-btn {
+        padding: 16px 26px;
+    }
+    .clind-say-image {
+        width: 85px;
+    }
+    .clind-say-item {
+        display: unset;
+    }
+    .clind-say-main {
+        width: 85%;
+        margin: 28px;
+        overflow: hidden;
+    }
+    .clind-say-pra p {
+        font-size: 17px;
+        margin: 30px 0;
+    }
+    .clind-say-content::before {
+       display: none;
+    }
+    .creative-heading h1 {
+        font-size: 34px;
+    }
+    .about-btn-main {
+        margin-top: 40px;
+    }
+    .creative-logo {
+        top: 62%;
+        right: 16%;
+        width: 260px;
+    }
+    .creative {
+        height: 845px;
+    }
+
+    .card-main .our-service-btn.about-btn {
+        width: 100%;
+    }
+    .card-main h2 {
+        font-size: 42px;
+    }
+    .our-service-btn a {
+        font-size: 14px;
+    }
+    .footer-bottom-pra {
+        text-align: center;
+    }
+    .clind-say-content {
+        gap: 50px;
+    }
+}
+/*for smale Mobile view 320*/
+@media only screen and (min-width: 100px) and (max-width: 320px) {
+    .clind-logo-1 {
+        width: 140px;
+    }
+    .card-main h2 {
+        font-size: 35px;
+    }
+    .member-date {
+        width: 28%;
+    }
+    .footer-top {
+        padding: 60px 0px;
+    }
+    .creative-logo {
+        top: 66%;
+        right: 9%;
+        width: 260px;
+    }
+    
+}
+
